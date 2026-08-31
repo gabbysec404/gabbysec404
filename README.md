@@ -1,4 +1,4 @@
-
+![Gabby's GitHub overview](banner.png)
 # So—you’ve found my little corner of GitHub. 🍷✨
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8B0000?style=flat-square&logo=hackthebox&logoColor=white)
 ![Red Team Path](https://img.shields.io/badge/Direction-Red%20Team-5C0000?style=flat-square)
@@ -29,9 +29,3 @@ Most of what I share here will revolve around cybersecurity, but I may also add 
 ![SQL](https://img.shields.io/badge/SQL-3D0000?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-8B0000?style=flat-square&logo=git&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-5C0000?style=flat-square&logo=django&logoColor=white)
-
-
-
-## More of My Work
-
-🎓 [Visit my green-coded university portfolio](GREEN_PORTFOLIO_URL)
